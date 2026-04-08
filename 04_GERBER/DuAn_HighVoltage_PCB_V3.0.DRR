@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: DuAn_HighVoltage_PCB_V3.0.PcbDoc   4/9/2026  2:32:12 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : DuAn_HighVoltage_PCB_V3.0.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             4         PTH        3.30mm (0.13inch)
+T2      0.3mm (12mil)                                             Round             563       PTH        2016.63mm (79.39inch)
+T3      0.7mm (28mil)                                             Round             144       PTH        1157.91mm (45.59inch)
+T4      0.8mm (31mil)                                             Round             20        PTH        58.00mm (2.28inch)
+T5      0.86mm (34mil)                                            Round             33        PTH        232.35mm (9.15inch)
+T6      0.9mm (35mil)                                             Round             7         PTH        60.96mm (2.40inch)
+T7      1.02mm (40mil)                                            Round             46        PTH        289.81mm (11.41inch)
+T8      1.65mm (65mil)                                            Round             6         PTH        22.06mm (0.87inch)
+T9      2mm (79mil)                                               Round             24        PTH        876.21mm (34.50inch)
+T10     3.18mm (125mil)                                           Round             18        PTH        978.27mm (38.51inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              865
+
+Total Processing Time (hh:mm:ss) : 00:00:00
