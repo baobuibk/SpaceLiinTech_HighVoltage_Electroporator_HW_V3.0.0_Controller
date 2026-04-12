@@ -204,6 +204,23 @@ GenerateClassCluster=0
 DocumentUniqueId=SCBEAQMN
 
 [Document10]
+DocumentPath=EEPROM.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=20
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KPMBHXTI
+
+[Document11]
 DocumentPath=MAIN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -220,7 +237,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QVNEGIGN
 
-[Document11]
+[Document12]
 DocumentPath=ANALOG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -237,7 +254,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XPULLGXL
 
-[Document12]
+[Document13]
 DocumentPath=OVP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -254,7 +271,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AKAGHWZI
 
-[Document13]
+[Document14]
 DocumentPath=CAP_RELEASE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -271,7 +288,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DNSDHLRS
 
-[Document14]
+[Document15]
 DocumentPath=XBEE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -288,7 +305,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SRXLFBNY
 
-[Document15]
+[Document16]
 DocumentPath=I2C_ISO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -305,7 +322,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DFCRMCOP
 
-[Document16]
+[Document17]
 DocumentPath=POWER_CON.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -322,7 +339,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TULTWYBY
 
-[Document17]
+[Document18]
 DocumentPath=COMUNICATE_CON.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -339,7 +356,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PDFBGXUR
 
-[Document18]
+[Document19]
 DocumentPath=CHARGER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -356,7 +373,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZUNWENQN
 
-[Document19]
+[Document20]
 DocumentPath=PERIPHERAL_CON.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -373,7 +390,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EONMXKUA
 
-[Document20]
+[Document21]
 DocumentPath=DuAn_HighVoltage_V3.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -390,7 +407,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document22]
 DocumentPath=DuAn_HighVoltage_V3.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -407,7 +424,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document23]
 DocumentPath=..\..\DuAn_HMI_F7\LIBRARY\Capacitors_Alu_Dip.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -424,7 +441,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document24]
 DocumentPath=..\..\DuAn_HMI_F7\LIBRARY\Capacitors_Alu_Smd.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -441,7 +458,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document25]
 DocumentPath=..\..\DuAn_HMI_F7\LIBRARY\Capacitors_Semi.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -458,7 +475,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document26]
 DocumentPath=..\..\DuAn_HMI_F7\LIBRARY\Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -475,7 +492,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document27]
 DocumentPath=..\..\DuAn_HMI_F7\LIBRARY\Diode.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -492,7 +509,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document28]
 DocumentPath=..\..\DuAn_HMI_F7\LIBRARY\FPC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -509,7 +526,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document29]
 DocumentPath=..\..\DuAn_HMI_F7\LIBRARY\Fuse.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -526,7 +543,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document30]
 DocumentPath=..\..\DuAn_HMI_F7\LIBRARY\Herry.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -543,7 +560,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document31]
 DocumentPath=..\..\DuAn_HMI_F7\LIBRARY\Jump_2.0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -560,7 +577,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document32]
 DocumentPath=..\..\DuAn_HMI_F7\LIBRARY\Jump_2.54.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -577,7 +594,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document33]
 DocumentPath=..\..\DuAn_HMI_F7\LIBRARY\KF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -594,7 +611,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document34]
 DocumentPath=..\..\DuAn_HMI_F7\LIBRARY\Led.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -611,7 +628,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document34]
+[Document35]
 DocumentPath=..\..\DuAn_HMI_F7\LIBRARY\Led7segs.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -628,7 +645,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document36]
 DocumentPath=..\..\DuAn_HMI_F7\LIBRARY\Library.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -645,7 +662,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document37]
 DocumentPath=..\..\DuAn_HMI_F7\LIBRARY\Library.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -662,7 +679,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NTHGDAYU
 
-[Document37]
+[Document38]
 DocumentPath=..\..\DuAn_HMI_F7\LIBRARY\Module.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -679,7 +696,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document39]
 DocumentPath=..\..\DuAn_HMI_F7\LIBRARY\Resistor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -696,7 +713,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document40]
 DocumentPath=..\..\DuAn_HMI_F7\LIBRARY\Straps.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -713,7 +730,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document41]
 DocumentPath=..\..\DuAn_HMI_F7\LIBRARY\Switch.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -730,7 +747,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document42]
 DocumentPath=..\..\DuAn_HMI_F7\LIBRARY\Tranformers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -747,7 +764,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document43]
 DocumentPath=..\..\DuAn_HMI_F7\LIBRARY\Usb.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -764,7 +781,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document44]
 DocumentPath=DuAn_HighVoltage_PCB_V3.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -781,7 +798,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGXTLRJI
 
-[Document44]
+[Document45]
 DocumentPath=DuAn_HighVoltage_V3.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -798,25 +815,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document45]
-DocumentPath=CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [Document46]
-DocumentPath=CAMtastic2.Cam
+DocumentPath=..\..\..\..\ALtium\LIB2026\LIBRARY\Capacitors_Alu_Dip.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -833,6 +833,380 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document47]
+DocumentPath=..\..\..\..\ALtium\LIB2026\LIBRARY\Capacitors_Alu_Smd.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document48]
+DocumentPath=..\..\..\..\ALtium\LIB2026\LIBRARY\Capacitors_Semi.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document49]
+DocumentPath=..\..\..\..\ALtium\LIB2026\LIBRARY\Connectors.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document50]
+DocumentPath=..\..\..\..\ALtium\LIB2026\LIBRARY\Diode.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document51]
+DocumentPath=..\..\..\..\ALtium\LIB2026\LIBRARY\FPC.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document52]
+DocumentPath=..\..\..\..\ALtium\LIB2026\LIBRARY\Fuse.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document53]
+DocumentPath=..\..\..\..\ALtium\LIB2026\LIBRARY\Herry.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document54]
+DocumentPath=..\..\..\..\ALtium\LIB2026\LIBRARY\Jump_2.0.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document55]
+DocumentPath=..\..\..\..\ALtium\LIB2026\LIBRARY\Jump_2.54.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document56]
+DocumentPath=..\..\..\..\ALtium\LIB2026\LIBRARY\KF.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document57]
+DocumentPath=..\..\..\..\ALtium\LIB2026\LIBRARY\Led.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document58]
+DocumentPath=..\..\..\..\ALtium\LIB2026\LIBRARY\Led7segs.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document59]
+DocumentPath=..\..\..\..\ALtium\LIB2026\LIBRARY\Library.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document60]
+DocumentPath=..\..\..\..\ALtium\LIB2026\LIBRARY\Library.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document61]
+DocumentPath=..\..\..\..\ALtium\LIB2026\LIBRARY\Module.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document62]
+DocumentPath=..\..\..\..\ALtium\LIB2026\LIBRARY\Resistor.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document63]
+DocumentPath=..\..\..\..\ALtium\LIB2026\LIBRARY\Straps.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document64]
+DocumentPath=..\..\..\..\ALtium\LIB2026\LIBRARY\Switch.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document65]
+DocumentPath=..\..\..\..\ALtium\LIB2026\LIBRARY\Tranformers.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document66]
+DocumentPath=..\..\..\..\ALtium\LIB2026\LIBRARY\Usb.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document67]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document68]
+DocumentPath=CAMtastic2.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document69]
 DocumentPath=..\05_SMT\DuAn_HighVoltage_PCB_V3.0.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -847,29 +1221,47 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ZZEPSSLG
+DocumentUniqueId=ZXEAYWXI
 
 [ProjectVariant1]
 UniqueID=744305c5-9094-412e-9a9f-b7920a9744a0
 Description=Variant of DuAn_HighVoltage_V3
 AllowFabrication=0
 ParameterCount=0
-VariationCount=2
-Variation1=Designator=C10A|UniqueId=\CYOFPEIF\SCKTSTCX|Kind=0|AlternatePart=0.01u/630V/10%
-ParamVariation1=ParameterName=Comment|VariantValue=0.01u/630V/10%
+VariationCount=4
+Variation1=Designator=C10A|UniqueId=\CYOFPEIF\SCKTSTCX|Kind=0|AlternatePart=0.022uF/200V
+ParamVariation1=ParameterName=Comment|VariantValue=0.022uF/200V
 ParamDesignator1=C10A
-ParamVariation2=ParameterName=Description|VariantValue=12061C562JAT2A
+ParamVariation2=ParameterName=Description|VariantValue=CAP CER 0.022UF 200V NP0 1206
 ParamDesignator2=C10A
-ParamVariation3=ParameterName=PN|VariantValue=12061C562JAT2A
+ParamVariation3=ParameterName=PN|VariantValue=C1206C223J2GACAUTO
 ParamDesignator3=C10A
-Variation2=Designator=R2A|UniqueId=\CYOFPEIF\ITYKYEUY|Kind=0|AlternatePart=8K2/0.5%/1W
-ParamVariation4=ParameterName=Comment|VariantValue=8K2/0.5%/1W
-ParamDesignator4=R2A
-ParamVariation5=ParameterName=Description|VariantValue=ERJ-P08F1502V
+ParamVariation4=ParameterName=Value|VariantValue=C1206C223J2GACAUTO
+ParamDesignator4=C10A
+Variation2=Designator=R2A|UniqueId=\CYOFPEIF\ITYKYEUY|Kind=0|AlternatePart=3.6K/1%
+ParamVariation5=ParameterName=Comment|VariantValue=3.6K/1%
 ParamDesignator5=R2A
-ParamVariation6=ParameterName=PN|VariantValue=ERJ-P08F1502V
+ParamVariation6=ParameterName=Description|VariantValue=RES 3.6K OHM 1% 1W 1206
 ParamDesignator6=R2A
-ParamVariationCount=6
+ParamVariation7=ParameterName=PN|VariantValue=RCS12063K60FKEA
+ParamDesignator7=R2A
+Variation3=Designator=R2B|UniqueId=\DQRSRJCO\ITYKYEUY|Kind=0|AlternatePart=2.1K/1%
+ParamVariation8=ParameterName=PN|VariantValue=3503G2B2K1FTD
+ParamDesignator8=R2B
+ParamVariation9=ParameterName=Comment|VariantValue=2.1K/1%
+ParamDesignator9=R2B
+ParamVariation10=ParameterName=Description|VariantValue=RES 2.1K OHM 1% 2W 1206
+ParamDesignator10=R2B
+Variation4=Designator=C10B|UniqueId=\DQRSRJCO\SCKTSTCX|Kind=0|AlternatePart=0.039uF/250V
+ParamVariation11=ParameterName=Comment|VariantValue=0.039uF/250V
+ParamDesignator11=C10B
+ParamVariation12=ParameterName=Description|VariantValue=CAP CER 0.039UF 250V X7R 1206
+ParamDesignator12=C10B
+ParamVariation13=ParameterName=PN|VariantValue=C1206C393JARACTU
+ParamDesignator13=C10B
+ParamVariation14=ParameterName=Value|VariantValue=C1206C393JARACTU
+ParamDesignator14=C10B
+ParamVariationCount=14
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for DuAn_HighVoltage_V3\Design Rule Check - DuAn_HighVoltage_PCB_V3.html
@@ -1391,75 +1783,131 @@ Name=Fabrication Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=NC Drill
-OutputName1=NC Drill Files
+OutputType1=CompositeDrill
+OutputName1=Composite Drill Drawing
 OutputDocumentPath1=
-OutputVariantName1=
+OutputVariantName1=[No Variations]
 OutputDefault1=0
-Configuration1_Name1=ForceUpdateSettings
-Configuration1_Item1=False
-Configuration1_Name2=OutputConfigurationParameter1
-Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=2|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressLeadingZeroes|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
-OutputType2=Mask
-OutputName2=Solder/Paste Mask Prints
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType2=Drill
+OutputName2=Drill Drawing/Guides
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType3=IPC2581
-OutputName3=IPC-2581 Files
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.09|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration2_Name1=ForceUpdateSettings
+Configuration2_Item1=False
+Configuration2_Name2=OutputConfigurationParameter1
+Configuration2_Item2=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+Configuration2_Name3=OutputConfigurationParameter2
+Configuration2_Item3=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Drill Drawing For (Top Layer - Bottom Layer)|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+Configuration2_Name4=OutputConfigurationParameter3
+Configuration2_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=DrillDrawing|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+Configuration2_Name5=OutputConfigurationParameter4
+Configuration2_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+Configuration2_Name6=OutputConfigurationParameter5
+Configuration2_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical2|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+Configuration2_Name7=OutputConfigurationParameter6
+Configuration2_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical5|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+Configuration2_Name8=OutputConfigurationParameter7
+Configuration2_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical6|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+Configuration2_Name9=OutputConfigurationParameter8
+Configuration2_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical8|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+Configuration2_Name10=OutputConfigurationParameter9
+Configuration2_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical10|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+Configuration2_Name11=OutputConfigurationParameter10
+Configuration2_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+Configuration2_Name12=OutputConfigurationParameter11
+Configuration2_Item12=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical14|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+Configuration2_Name13=OutputConfigurationParameter12
+Configuration2_Item13=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+Configuration2_Name14=OutputConfigurationParameter13
+Configuration2_Item14=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical20|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+Configuration2_Name15=OutputConfigurationParameter14
+Configuration2_Item15=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical24|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+Configuration2_Name16=OutputConfigurationParameter15
+Configuration2_Item16=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=1|Mirror=False|Name=Drill Guide For (Top Layer - Bottom Layer)|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+Configuration2_Name17=OutputConfigurationParameter16
+Configuration2_Item17=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=DrillGuide|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+Configuration2_Name18=OutputConfigurationParameter17
+Configuration2_Item18=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+Configuration2_Name19=OutputConfigurationParameter18
+Configuration2_Item19=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical2|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+Configuration2_Name20=OutputConfigurationParameter19
+Configuration2_Item20=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical5|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+Configuration2_Name21=OutputConfigurationParameter20
+Configuration2_Item21=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical6|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+Configuration2_Name22=OutputConfigurationParameter21
+Configuration2_Item22=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical8|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+Configuration2_Name23=OutputConfigurationParameter22
+Configuration2_Item23=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical10|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+Configuration2_Name24=OutputConfigurationParameter23
+Configuration2_Item24=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+Configuration2_Name25=OutputConfigurationParameter24
+Configuration2_Item25=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical14|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+Configuration2_Name26=OutputConfigurationParameter25
+Configuration2_Item26=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+Configuration2_Name27=OutputConfigurationParameter26
+Configuration2_Item27=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical20|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+Configuration2_Name28=OutputConfigurationParameter27
+Configuration2_Item28=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical24|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+OutputType3=Board Stack Report
+OutputName3=Report Board Stack
 OutputDocumentPath3=
-OutputVariantName3=[No Variations]
+OutputVariantName3=
 OutputDefault3=0
-OutputType4=Test Points
-OutputName4=Test Point Report
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration3_Name1=ForceUpdateSettings
+Configuration3_Item1=False
+Configuration3_Name2=OutputConfigurationParameter1
+Configuration3_Item2=Record=LayerStackReportView|Units=Metric|ColumnsCount=21|Column0Name=Name|Column0Title=Name|Column0Visible=True|Column1Name=Material|Column1Title=Material|Column1Visible=True|Column2Name=Thickness|Column2Title=Thickness|Column2Visible=True|Column3Name=Constant|Column3Title=Constant|Column3Visible=True|Column4Name=DielectricConstant|Column4Title=Dk|Column4Visible=False|Column5Name=CoverlayExpansion|Column5Title=Coverlay expansion|Column5Visible=False|Column6Name=Material.Color|Column6Title=Color|Column6Visible=False|Column7Name=Material.Frequency|Column7Title=Frequency|Column7Visible=False|Column8Name=Material.Solid|Column8Title=Solid|Column8Visible=False|Column9Name=Material.GlassTransTemp|Column9Title=GlassTransTemp|Column9Visible=False|Column10Name=Material.Manufacturer|Column10Title=Manufacturer|Column10Visible=False|Column11Name=MaterialDescription|Column11Title=MaterialDescription|Column11Visible=False|Column12Name=Process|Column12Title=Process|Column12Visible=False|Column13Name=ComponentPlacement|Column13Title=Orientation|Column13Visible=False|Column14Name=CopperOrientation|Column14Title=Copper Orientation|Column14Visible=False|Column15Name=Weight|Column15Title=Weight|Column15Visible=False|Column16Name=LossTangent|Column16Title=Df|Column16Visible=False|Column17Name=Material.Constructions|Column17Title=Constructions|Column17Visible=False|Column18Name=Material.Resin|Column18Title=Resin|Column18Visible=False|Column19Name=PullbackDistance|Column19Title=Pullback distance|Column19Visible=False|Column20Name=Material.Description|Column20Title=Description|Column20Visible=False|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+OutputType4=Final
+OutputName4=Final Artwork Prints
 OutputDocumentPath4=
-OutputVariantName4=
+OutputVariantName4=[No Variations]
 OutputDefault4=0
-OutputType5=Plane
-OutputName5=Power-Plane Prints
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType5=Gerber X2
+OutputName5=Gerber X2 Files
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType6=ODB
 OutputName6=ODB++ Files
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=Drill
-OutputName7=Drill Drawing/Guides
+OutputType7=Mask
+OutputName7=Solder/Paste Mask Prints
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType8=CompositeDrill
-OutputName8=Composite Drill Drawing
+OutputType8=NC Drill
+OutputName8=NC Drill Files
 OutputDocumentPath8=
-OutputVariantName8=[No Variations]
+OutputVariantName8=
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType9=Board Stack Report
-OutputName9=Report Board Stack
+Configuration8_Name1=ForceUpdateSettings
+Configuration8_Item1=False
+Configuration8_Name2=OutputConfigurationParameter1
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=2|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressLeadingZeroes|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
+OutputType9=IPC2581
+OutputName9=IPC-2581 Files
 OutputDocumentPath9=
-OutputVariantName9=
+OutputVariantName9=[No Variations]
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-Configuration9_Name1=ForceUpdateSettings
-Configuration9_Item1=False
-Configuration9_Name2=OutputConfigurationParameter1
-Configuration9_Item2=Record=LayerStackReportView|Units=Metric|ColumnsCount=21|Column0Name=Name|Column0Title=Name|Column0Visible=True|Column1Name=Material|Column1Title=Material|Column1Visible=True|Column2Name=Thickness|Column2Title=Thickness|Column2Visible=True|Column3Name=Constant|Column3Title=Constant|Column3Visible=True|Column4Name=DielectricConstant|Column4Title=Dk|Column4Visible=False|Column5Name=CoverlayExpansion|Column5Title=Coverlay expansion|Column5Visible=False|Column6Name=Material.Color|Column6Title=Color|Column6Visible=False|Column7Name=Material.Frequency|Column7Title=Frequency|Column7Visible=False|Column8Name=Material.Solid|Column8Title=Solid|Column8Visible=False|Column9Name=Material.GlassTransTemp|Column9Title=GlassTransTemp|Column9Visible=False|Column10Name=Material.Manufacturer|Column10Title=Manufacturer|Column10Visible=False|Column11Name=MaterialDescription|Column11Title=MaterialDescription|Column11Visible=False|Column12Name=Process|Column12Title=Process|Column12Visible=False|Column13Name=ComponentPlacement|Column13Title=Orientation|Column13Visible=False|Column14Name=CopperOrientation|Column14Title=Copper Orientation|Column14Visible=False|Column15Name=Weight|Column15Title=Weight|Column15Visible=False|Column16Name=LossTangent|Column16Title=Df|Column16Visible=False|Column17Name=Material.Constructions|Column17Title=Constructions|Column17Visible=False|Column18Name=Material.Resin|Column18Title=Resin|Column18Visible=False|Column19Name=PullbackDistance|Column19Title=Pullback distance|Column19Visible=False|Column20Name=Material.Description|Column20Title=Description|Column20Visible=False|DocumentPath=D:\LAB209B3\SpaceLiinTech_Eletroporator\DuAn_HighVoltage_Controller_V3\01_DESIGN\DuAn_HighVoltage_PCB_V3.0.PcbDoc
-OutputType10=Gerber X2
-OutputName10=Gerber X2 Files
+OutputType10=Plane
+OutputName10=Power-Plane Prints
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
-OutputType11=Final
-OutputName11=Final Artwork Prints
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=Test Points
+OutputName11=Test Point Report
 OutputDocumentPath11=
-OutputVariantName11=[No Variations]
+OutputVariantName11=
 OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType12=Gerber
 OutputName12=Gerber Files
 OutputDocumentPath12=
@@ -1492,9 +1940,9 @@ Configuration1_Item4=
 Configuration1_Name5=SortOrder
 Configuration1_Item5=Designator=Up
 Configuration1_Name6=VisibleOrder
-Configuration1_Item6=Line #=39|Comment=136|Description=208|Designator=139|Footprint=105|Manufacturer=120|PN=128|Quantity=59
+Configuration1_Item6=Line #=39|Comment=136|Description=164|Designator=139|Footprint=105|Manufacturer=31|PN=128|Quantity=59
 Configuration1_Name7=VisibleOrder_Base
-Configuration1_Item7=Line #=39|Comment=136|Description=208|Designator=139|Footprint=105|Manufacturer=120|PN=128|Quantity=59
+Configuration1_Item7=Line #=39|Comment=136|Description=164|Designator=139|Footprint=105|Manufacturer=31|PN=128|Quantity=59
 Configuration1_Name8=VisibleOrder_Consolidated
 Configuration1_Item8=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122|Quantity@Variant of DuAn_HighVoltage_V3=100|Price@Variant of DuAn_HighVoltage_V3=100
 Configuration1_Name9=VisibleOrder_Flat
@@ -2220,106 +2668,111 @@ Net8=NetName=CHAR_SDA|NetColor=$00E8C59F
 Net9=NetName=CHAR+|NetColor=$00000098
 Net10=NetName=DEBUG_RX|NetColor=$00065FB4
 Net11=NetName=DEBUG_TX|NetColor=$00065FB4
-Net12=NetName=FAN_PWM1|NetColor=$00471B74
-Net13=NetName=FAN_PWM2|NetColor=$00471B74
-Net14=NetName=GND|NetColor=$00134E27
-Net15=NetName=GND_S|NetColor=$00999999
-Net16=NetName=LED1|NetColor=$00A07BC2
-Net17=NetName=LED2|NetColor=$00A07BC2
-Net18=NetName=MCU_CAP_DISCHARGE_1|NetColor=$001D7638
-Net19=NetName=MCU_CAP_DISCHARGE_2|NetColor=$005C4F13
-Net20=NetName=MCU_FLYBACK_SD_1|NetColor=$001D7638
-Net21=NetName=MCU_FLYBACK_SD_2|NetColor=$005C4F13
-Net22=NetName=MCU_FLYBACK_SW_1|NetColor=$001D7638
-Net23=NetName=MCU_FLYBACK_SW_2|NetColor=$005C4F13
-Net24=NetName=MCU_FLYBACK_TEMP_1|NetColor=$001D7638
-Net25=NetName=MCU_FLYBACK_TEMP_2|NetColor=$005C4F13
-Net26=NetName=NetC75_2|NetColor=$005C4F13
-Net27=NetName=NetC75A_2|NetColor=$005C4F13
-Net28=NetName=NetC75B_2|NetColor=$001D7638
-Net29=NetName=NetC83_1|NetColor=$0094530B
-Net30=NetName=NetC86_1|NetColor=$0094530B
-Net31=NetName=NetJP6_1|NetColor=$00065FB4
-Net32=NetName=NetJP6_10|NetColor=$00065FB4
-Net33=NetName=NetJP6_2|NetColor=$00065FB4
-Net34=NetName=NetJP6_4|NetColor=$00065FB4
-Net35=NetName=NetJP6_5|NetColor=$00065FB4
-Net36=NetName=NetJP6_6|NetColor=$00065FB4
-Net37=NetName=NetJP6_7|NetColor=$00065FB4
-Net38=NetName=NetJP6_9|NetColor=$00065FB4
-Net39=NetName=NetJP8_1|NetColor=$000090BF
-Net40=NetName=NetR1_2|NetColor=$005C4F13
-Net41=NetName=NetR100_2|NetColor=$00A74E67
-Net42=NetName=NetR173_2|NetColor=$00E8C59F
-Net43=NetName=NetR174_2|NetColor=$00E8C59F
-Net44=NetName=NetR177_2|NetColor=$00065FB4
-Net45=NetName=NetR178_2|NetColor=$00065FB4
-Net46=NetName=NetR179_2|NetColor=$00043F78
-Net47=NetName=NetR180_2|NetColor=$00043F78
-Net48=NetName=NetR1A_2|NetColor=$005C4F13
-Net49=NetName=NetR1B_2|NetColor=$001D7638
-Net50=NetName=NetR200_1|NetColor=$00A07BC2
-Net51=NetName=NetR201_1|NetColor=$00065FB4
-Net52=NetName=NetR202_1|NetColor=$00065FB4
-Net53=NetName=NetR203_1|NetColor=$00A07BC2
-Net54=NetName=NetR204_1|NetColor=$00065FB4
-Net55=NetName=NetR205_1|NetColor=$00065FB4
-Net56=NetName=NetR27_1|NetColor=$00471B74
-Net57=NetName=NetR27A_1|NetColor=$00471B74
-Net58=NetName=NetR27B_1|NetColor=$00471B74
-Net59=NetName=NetR29_2|NetColor=$00065FB4
-Net60=NetName=NetR3_2|NetColor=$005C4F13
-Net61=NetName=NetR32_2|NetColor=$00065FB4
-Net62=NetName=NetR3A_2|NetColor=$005C4F13
-Net63=NetName=NetR3B_2|NetColor=$001D7638
-Net64=NetName=NetR42_2|NetColor=$00A74E67
-Net65=NetName=NetR43_2|NetColor=$00A74E67
-Net66=NetName=NetR44_2|NetColor=$00A74E67
-Net67=NetName=NetR45_2|NetColor=$00A74E67
-Net68=NetName=NetR48_2|NetColor=$00A74E67
-Net69=NetName=NetR49_2|NetColor=$00A74E67
-Net70=NetName=NetR5_2|NetColor=$005C4F13
-Net71=NetName=NetR5A_2|NetColor=$005C4F13
-Net72=NetName=NetR5B_2|NetColor=$001D7638
-Net73=NetName=NetR61_1|NetColor=$0099E5FF
-Net74=NetName=NetR66_1|NetColor=$0099E5FF
-Net75=NetName=NetR84_1|NetColor=$00A07BC2
-Net76=NetName=NetR85_1|NetColor=$00A07BC2
-Net77=NetName=NetR90_2|NetColor=$00065FB4
-Net78=NetName=NetR91_2|NetColor=$00065FB4
-Net79=NetName=NetR99_2|NetColor=$00A74E67
-Net80=NetName=ONBOARD_SEN_INT_1|NetColor=$00A74E67
-Net81=NetName=ONBOARD_SEN_INT_2|NetColor=$00A74E67
-Net82=NetName=ONBOARD_SEN_INT_3|NetColor=$00A74E67
-Net83=NetName=ONBOARD_SEN_INT_4|NetColor=$00A74E67
-Net84=NetName=ONBOARD_SEN_SCL|NetColor=$00A74E67
-Net85=NetName=ONBOARD_SEN_SDA|NetColor=$00A74E67
-Net86=NetName=OVP_MCU_300|NetColor=$0099E5FF
-Net87=NetName=OVP_MCU_50|NetColor=$0099E5FF
-Net88=NetName=PERIPH_PUSH_BUTTON|NetColor=$00A07BC2
-Net89=NetName=PERIPH_PUSH_LED|NetColor=$00A07BC2
-Net90=NetName=RS232_RX1|NetColor=$00065FB4
-Net91=NetName=RS232_RX2|NetColor=$00065FB4
-Net92=NetName=RS232_TX1|NetColor=$00065FB4
-Net93=NetName=RS232_TX2|NetColor=$00065FB4
-Net94=NetName=SCL1|NetColor=$00E8C59F
-Net95=NetName=SDA1|NetColor=$00E8C59F
-Net96=NetName=SENSOR_INT_1|NetColor=$00065FB4
-Net97=NetName=SENSOR_INT_2|NetColor=$00065FB4
-Net98=NetName=SENSOR_INT_3|NetColor=$00065FB4
-Net99=NetName=SENSOR_INT_4|NetColor=$00065FB4
-Net100=NetName=SENSOR_SCL|NetColor=$00A74E67
-Net101=NetName=SENSOR_SDA|NetColor=$00A74E67
-Net102=NetName=SLAVE_RX|NetColor=$00065FB4
-Net103=NetName=SLAVE_TX|NetColor=$00065FB4
-Net104=NetName=SWCLK|NetColor=$00043F78
-Net105=NetName=SWDIO|NetColor=$00043F78
-Net106=NetName=Temp_Out|NetColor=$005C4F13
-Net107=NetName=Temp_OutA|NetColor=$005C4F13
-Net108=NetName=Temp_OutB|NetColor=$001D7638
-Net109=NetName=VBAT|NetColor=$00000098
-Net110=NetName=XBEE_RX|NetColor=$00065FB4
-Net111=NetName=XBEE_TX|NetColor=$00065FB4
+Net12=NetName=EEPROM_CS|NetColor=$003D340C
+Net13=NetName=EEPROM_MISO|NetColor=$003D340C
+Net14=NetName=EEPROM_MOSI|NetColor=$003D340C
+Net15=NetName=EEPROM_SCK|NetColor=$003D340C
+Net16=NetName=FAN_PWM1|NetColor=$00471B74
+Net17=NetName=FAN_PWM2|NetColor=$00471B74
+Net18=NetName=GND|NetColor=$00134E27
+Net19=NetName=GND_S|NetColor=$00999999
+Net20=NetName=LED1|NetColor=$00A07BC2
+Net21=NetName=LED2|NetColor=$00A07BC2
+Net22=NetName=MCU_CAP_DISCHARGE_1|NetColor=$001D7638
+Net23=NetName=MCU_CAP_DISCHARGE_2|NetColor=$005C4F13
+Net24=NetName=MCU_FLYBACK_SD_1|NetColor=$001D7638
+Net25=NetName=MCU_FLYBACK_SD_2|NetColor=$005C4F13
+Net26=NetName=MCU_FLYBACK_SW_1|NetColor=$001D7638
+Net27=NetName=MCU_FLYBACK_SW_2|NetColor=$005C4F13
+Net28=NetName=MCU_FLYBACK_TEMP_1|NetColor=$001D7638
+Net29=NetName=MCU_FLYBACK_TEMP_2|NetColor=$005C4F13
+Net30=NetName=NetC75_2|NetColor=$005C4F13
+Net31=NetName=NetC75A_2|NetColor=$005C4F13
+Net32=NetName=NetC75B_2|NetColor=$001D7638
+Net33=NetName=NetC83_1|NetColor=$0094530B
+Net34=NetName=NetC86_1|NetColor=$0094530B
+Net35=NetName=NetJP6_1|NetColor=$00065FB4
+Net36=NetName=NetJP6_10|NetColor=$00065FB4
+Net37=NetName=NetJP6_2|NetColor=$00065FB4
+Net38=NetName=NetJP6_4|NetColor=$00065FB4
+Net39=NetName=NetJP6_5|NetColor=$00065FB4
+Net40=NetName=NetJP6_6|NetColor=$00065FB4
+Net41=NetName=NetJP6_7|NetColor=$00065FB4
+Net42=NetName=NetJP6_9|NetColor=$00065FB4
+Net43=NetName=NetJP8_1|NetColor=$000090BF
+Net44=NetName=NetR1_2|NetColor=$005C4F13
+Net45=NetName=NetR100_2|NetColor=$00A74E67
+Net46=NetName=NetR173_2|NetColor=$00E8C59F
+Net47=NetName=NetR174_2|NetColor=$00E8C59F
+Net48=NetName=NetR177_2|NetColor=$00065FB4
+Net49=NetName=NetR178_2|NetColor=$00065FB4
+Net50=NetName=NetR179_2|NetColor=$00043F78
+Net51=NetName=NetR180_2|NetColor=$00043F78
+Net52=NetName=NetR1A_2|NetColor=$005C4F13
+Net53=NetName=NetR1B_2|NetColor=$001D7638
+Net54=NetName=NetR200_1|NetColor=$00A07BC2
+Net55=NetName=NetR201_1|NetColor=$00065FB4
+Net56=NetName=NetR202_1|NetColor=$00065FB4
+Net57=NetName=NetR203_1|NetColor=$00A07BC2
+Net58=NetName=NetR204_1|NetColor=$00065FB4
+Net59=NetName=NetR205_1|NetColor=$00065FB4
+Net60=NetName=NetR27_1|NetColor=$00471B74
+Net61=NetName=NetR27A_1|NetColor=$00471B74
+Net62=NetName=NetR27B_1|NetColor=$00471B74
+Net63=NetName=NetR29_2|NetColor=$00065FB4
+Net64=NetName=NetR3_2|NetColor=$005C4F13
+Net65=NetName=NetR32_2|NetColor=$00065FB4
+Net66=NetName=NetR3A_2|NetColor=$005C4F13
+Net67=NetName=NetR3B_2|NetColor=$001D7638
+Net68=NetName=NetR42_2|NetColor=$00A74E67
+Net69=NetName=NetR43_2|NetColor=$00A74E67
+Net70=NetName=NetR44_2|NetColor=$00A74E67
+Net71=NetName=NetR45_2|NetColor=$00A74E67
+Net72=NetName=NetR48_2|NetColor=$00A74E67
+Net73=NetName=NetR49_2|NetColor=$00A74E67
+Net74=NetName=NetR5_2|NetColor=$005C4F13
+Net75=NetName=NetR5A_2|NetColor=$005C4F13
+Net76=NetName=NetR5B_2|NetColor=$001D7638
+Net77=NetName=NetR61_1|NetColor=$0099E5FF
+Net78=NetName=NetR66_1|NetColor=$0099E5FF
+Net79=NetName=NetR84_1|NetColor=$00A07BC2
+Net80=NetName=NetR85_1|NetColor=$00A07BC2
+Net81=NetName=NetR90_2|NetColor=$00065FB4
+Net82=NetName=NetR91_2|NetColor=$00065FB4
+Net83=NetName=NetR99_2|NetColor=$00A74E67
+Net84=NetName=NetU13_51|NetColor=$003D340C
+Net85=NetName=ONBOARD_SEN_INT_1|NetColor=$00A74E67
+Net86=NetName=ONBOARD_SEN_INT_2|NetColor=$00A74E67
+Net87=NetName=ONBOARD_SEN_INT_3|NetColor=$00A74E67
+Net88=NetName=ONBOARD_SEN_INT_4|NetColor=$00A74E67
+Net89=NetName=ONBOARD_SEN_SCL|NetColor=$00A74E67
+Net90=NetName=ONBOARD_SEN_SDA|NetColor=$00A74E67
+Net91=NetName=OVP_MCU_300|NetColor=$0099E5FF
+Net92=NetName=OVP_MCU_50|NetColor=$0099E5FF
+Net93=NetName=PERIPH_PUSH_BUTTON|NetColor=$00A07BC2
+Net94=NetName=PERIPH_PUSH_LED|NetColor=$00A07BC2
+Net95=NetName=RS232_RX1|NetColor=$00065FB4
+Net96=NetName=RS232_RX2|NetColor=$00065FB4
+Net97=NetName=RS232_TX1|NetColor=$00065FB4
+Net98=NetName=RS232_TX2|NetColor=$00065FB4
+Net99=NetName=SCL1|NetColor=$00E8C59F
+Net100=NetName=SDA1|NetColor=$00E8C59F
+Net101=NetName=SENSOR_INT_1|NetColor=$00065FB4
+Net102=NetName=SENSOR_INT_2|NetColor=$00065FB4
+Net103=NetName=SENSOR_INT_3|NetColor=$00065FB4
+Net104=NetName=SENSOR_INT_4|NetColor=$00065FB4
+Net105=NetName=SENSOR_SCL|NetColor=$00A74E67
+Net106=NetName=SENSOR_SDA|NetColor=$00A74E67
+Net107=NetName=SLAVE_RX|NetColor=$00065FB4
+Net108=NetName=SLAVE_TX|NetColor=$00065FB4
+Net109=NetName=SWCLK|NetColor=$00043F78
+Net110=NetName=SWDIO|NetColor=$00043F78
+Net111=NetName=Temp_Out|NetColor=$005C4F13
+Net112=NetName=Temp_OutA|NetColor=$005C4F13
+Net113=NetName=Temp_OutB|NetColor=$001D7638
+Net114=NetName=VBAT|NetColor=$00000098
+Net115=NetName=XBEE_RX|NetColor=$00065FB4
+Net116=NetName=XBEE_TX|NetColor=$00065FB4
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
