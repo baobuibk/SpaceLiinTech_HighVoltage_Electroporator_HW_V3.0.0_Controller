@@ -512,22 +512,19 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Int2 (PWR)
-      File : DuAn_HighVoltage_PCB_V3.0_Copper_Signal_2.gbr
+Generating : Int1 (GND)
+      File : DuAn_HighVoltage_PCB_V3.0_Copper_Signal_1.gbr
 
-    Adding Layer      : Int2 (PWR)
+    Adding Layer      : Int1 (GND)
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D12
     D14
-    D22
     D143
     D144
     D156
-    D166
     D167
     D169
     D170
@@ -552,19 +549,22 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Int1 (GND)
-      File : DuAn_HighVoltage_PCB_V3.0_Copper_Signal_1.gbr
+Generating : Int2 (PWR)
+      File : DuAn_HighVoltage_PCB_V3.0_Copper_Signal_2.gbr
 
-    Adding Layer      : Int1 (GND)
+    Adding Layer      : Int2 (PWR)
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D12
     D14
+    D22
     D143
     D144
     D156
+    D166
     D167
     D169
     D170
