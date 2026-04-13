@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: DuAn_HighVoltage_PCB_V3.0.PcbDoc   4/13/2026  11:40:03 AM
+NCDrill File Report For: DuAn_HighVoltage_PCB_V3.0.PcbDoc   4/13/2026  3:57:53 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,7 +7,7 @@ ASCII RoundHoles File : DuAn_HighVoltage_PCB_V3.0.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.5mm (20mil)                                             Round             496       PTH        1838.99mm (72.40inch)
+T1      0.5mm (20mil)                                             Round             495       PTH        1820.91mm (71.69inch)
 T2      0.7mm (28mil)                                             Round             144       PTH        1157.91mm (45.59inch)
 T3      0.8mm (31mil)                                             Round             20        PTH        58.00mm (2.28inch)
 T4      0.86mm (34mil)                                            Round             33        PTH        232.35mm (9.15inch)
@@ -17,6 +17,6 @@ T7      1.65mm (65mil)                                            Round         
 T8      2mm (79mil)                                               Round             24        PTH        876.21mm (34.50inch)
 T9      3.18mm (125mil)                                           Round             18        PTH        978.27mm (38.51inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              794
+Totals                                                                              793
 
 Total Processing Time (hh:mm:ss) : 00:00:00
